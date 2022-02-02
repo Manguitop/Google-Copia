@@ -1,0 +1,25 @@
+header{
+    height: 100px;
+    width: 100%;
+    margin: 0px;
+    text-align: center;
+    
+    
+    }
+aside{
+text-align: center;
+
+
+}
+li{
+float: right;
+margin: 10px;
+line-height: 30px;
+
+}
+
+h1{
+text-align: center;
+color: blue;
+
+}
